@@ -1,0 +1,28 @@
+*{
+    padding: 5px;
+    margin: 5px;
+    border: 0px;
+}
+body{
+    background-color: darkgoldenrod;
+}
+header{
+    background-color: darkmagenta;
+    width: auto;
+    height: 50px;
+}
+nav{
+    background-color: grey;
+}
+section{background-color: greenyellow;
+    width: auto;
+    height: 200px;
+}
+aside{
+    background-color: darkslategray;
+}
+footer{
+    background-color: mediumvioletred;
+    width: auto;
+    height: 50px;
+}
